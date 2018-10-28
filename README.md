@@ -1,2 +1,29 @@
-# WeatheriFy
-Find out Temperature, Weather Condition and more... :sunny: :umbrella: :cloud: :snowflake: :snowman: :zap:
+# WeatheriFy :sunny: :umbrella: :zap:
+Find out Temperature, Weather Condition and more... 
+
+## Screenshot
+
+
+## Tools/Library Used
+  * reactstrap
+
+## Build Setup
+
+In the project directory, you can run:
+
+``` bash
+# install dependencies
+npm install
+
+# Runs the app in the development mode. open http://localhost:3000
+npm run start
+
+# build for production with minification 
+npm run build
+
+```
+<p>
+<a href="https://weatherify-s.herokuapp.com/">
+  Demo
+</a>
+</p>
