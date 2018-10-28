@@ -2,6 +2,7 @@
 Find out Temperature, Weather Condition and more... 
 
 ## Screenshot
+![desktop-view](https://raw.githubusercontent.com/subhaminion/WeatheriFy/master/screenshot/screely-1540752842495.png)
 
 
 ## Tools/Library Used
